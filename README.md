@@ -12,7 +12,6 @@ This is a movie information app with a search component. It contains information
 
 ![movie-app-react](https://github.com/leahcimzil/movieapp/blob/master/public/Screenshot(3).png)
 
-C:\Users\USER\Downloads\Projects\movieapp\public\Screenshot (1).png
 
 # Getting Started with Create React App
 
