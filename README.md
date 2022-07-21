@@ -1,3 +1,19 @@
+# Api: 
+https://api.themoviedb.org
+
+# Info
+This is a movie information app with a search component. It contains information about movies including: Year of realease, title, overview, and ratings
+
+
+# What it looks like
+![movie-app-react](https://github.com/leahcimzil/movieapp/blob/master/public/Screenshot(1).png)
+
+![movie-app-react](https://github.com/leahcimzil/movieapp/blob/master/public/Screenshot(2).png)
+
+![movie-app-react](https://github.com/leahcimzil/movieapp/blob/master/public/Screenshot(3).png)
+
+C:\Users\USER\Downloads\Projects\movieapp\public\Screenshot (1).png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
